@@ -6,4 +6,7 @@ scikit-learn
 mysql-connector-python
 python-dotenv
 pymysql
+catboost
+mlflow
+dagshub
 #-e .
