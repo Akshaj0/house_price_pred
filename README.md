@@ -1,4 +1,4 @@
-House Price Prediction:
+## House Price Prediction:
 
 Objective: Built a predictive model to estimate house prices based on various features like location, square footage, number of bedrooms, and other property attributes.
 
@@ -8,7 +8,7 @@ Key Techniques:
 - Implemented multiple machine learning models, such as Linear Regression, Random Forest, and Gradient Boosting Machines, and fine-tuned them using hyperparameter optimization.
 - Used cross-validation for model evaluation and assessed performance using metrics like RMSE (Root Mean Squared Error) and R-squared.
 
-Outcome: Achieved an improved model with and gained valuable insights into the relationship between different features and house pricing.
+Outcome: Achieved an improved model with r2 score of 0.9063 and gained valuable insights into the relationship between different features and house pricing.
 Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook, VS Code, Git.
 
 
